@@ -7,8 +7,7 @@
 
 - 🔭 Actualente estudiante de ingieneria. 
 - 🌱 Trabajando actualmente en proyectos personales enfocados a el analisis de datos 
-- 💬 Pregúntame sobre C++, Python y mis proyectos en 77sq3z8lv@mozmail.com
-- :star: You may like [Healthy Code tracer](https://github.com/haoruilee/M5Stack_Healthy_code_tracer) 、 [face recognize](https://github.com/haoruilee/Face_recognize) 、 or [take-out system](https://github.com/haoruilee/ZuiSuWaiMai-MFC)
+- 💬 Pregúntame sobre C/C++, Python y mis proyectos en 77sq3z8lv@mozmail.com
 - ⚡ Curiosidad: Análisis de datos📊
 
 ### Languages and Tools
