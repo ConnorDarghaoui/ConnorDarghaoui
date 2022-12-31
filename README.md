@@ -3,12 +3,12 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-### Yo soy Connor Darghaoui
+### soy Connor Darghaoui
 
-- 🔭 Actualente estudiante de ingieneria. 
-- 🌱 Trabajando actualmente en proyectos personales enfocados a el analisis de datos 
+- 🔭 Estudiante de ingieneria. 
+- 🌱 actualmente trabajo en proyectos personales enfocados al analisis de datos 
 - 💬 Pregúntame sobre C/C++, Python y mis proyectos en 77sq3z8lv@mozmail.com
-- ⚡ Curiosidad: Análisis de datos📊
+
 
 ### Languages and Tools
 
